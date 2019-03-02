@@ -18,7 +18,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://192.168.31.238:8080/sdl0301-resigned.ipa</string>
+            <string>https://github.com/fengjiankang/telegram-enterprise-public/blob/master/sdl0301-resigned.ipa?raw=true</string>
           </dict>
           <dict>
             <key>kind</key>
