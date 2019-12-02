@@ -4,8 +4,8 @@
         "details": [
             {
                 "appID": "NL5Y2N5UUD.com.xbd.electronic",
-                "paths": [ "*"]
-            },
+                "paths": ["*"]
+            }
         ]
     }
 }
