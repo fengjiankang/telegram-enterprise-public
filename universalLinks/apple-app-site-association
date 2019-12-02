@@ -1,10 +1,12 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
             {
-                "appID": "NL5Y2N5UUD.com.xbd.electronic",
-                "paths": ["*"]
+                "paths":["*"],
+                "appID":"NL5Y2N5UUD.com.xbd.electronic"
             }
         ]
     }
